@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[10+20=30]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48" started-at="2019-08-13T20:21:04Z" finished-at="2019-08-13T20:21:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48" started-at="2019-08-13T20:21:04Z" finished-at="2019-08-13T20:21:04Z">
+      <class name="s1.PushToGit">
+        <test-method status="PASS" signature="sum()[pri:0, instance:s1.PushToGit@1f57539]" name="sum" duration-ms="11" started-at="2019-08-13T20:21:04Z" finished-at="2019-08-13T20:21:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[10+20=30]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- s1.PushToGit -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
